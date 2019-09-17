@@ -3,7 +3,7 @@ title: Showcase
 subtitle: This is an optional page subtitle
 img_path: images/5.jpg
 items:
-  - preview_img: images/6.jpg
+  - preview_img: ''
     title: Exto
     subtitle: A portfolio theme for Unibit
     url: 'https://exto-test-1.netlify.com/'
