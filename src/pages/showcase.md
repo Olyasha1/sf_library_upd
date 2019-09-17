@@ -1,11 +1,11 @@
 ---
-title: Showcase
+title: saas
 subtitle: This is an optional page subtitle
 img_path: images/5.jpg
 items:
   - preview_img: ''
-    title: Exto
-    subtitle: A portfolio theme for Unibit
+    title: HubSpot
+    subtitle: '#Marketing #Sales #Analytics #Productivity'
     url: 'https://exto-test-1.netlify.com/'
   - preview_img: images/7.jpg
     title: Fresh
@@ -19,7 +19,8 @@ items:
     title: Ampersand
     subtitle: Medium inspired blogging theme
     url: 'https://themes.stackbit.com/demos/ampersand/'
-  - {}
+  - title: SaaS pricing summary
+    subtitle: This page is summarizing all current and most up to date pricing data
 menus:
   layouts:
     title: ''
