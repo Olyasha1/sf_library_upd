@@ -1,6 +1,5 @@
 root_folder: /docs/
 sections:
-  - use-cases
   - about
   - getting-started
   - ui-components
@@ -8,3 +7,4 @@ sections:
   - tools
   - faq
   - community
+  - use-cases
