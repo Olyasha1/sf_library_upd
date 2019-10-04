@@ -9,15 +9,9 @@ This year we have made a very sexy case, featuring
 
 > **Feature 1**
 >
-> \
->
->
 > Bla bla bla
 >
 > **Feature 2**
->
-> \
->
 >
 > Bla bla bla
 
