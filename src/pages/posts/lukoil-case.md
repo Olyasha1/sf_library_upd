@@ -13,4 +13,4 @@ Our team analyzed sales big data across the channels and came up with product ma
 
 In the end we’ve made a pilot project in real life, which lasted for two months, and measured results after that we got confirmation of double digit % sales improvement.
 
-[Link to facebook video](https://ru-ru.facebook.com/s.a.f.moscow/videos/2232961820134263/)
+We're making [cool animations](https://ru-ru.facebook.com/s.a.f.moscow/videos/2232961820134263/) of our projects, so your company can be [next](mailto:hello@sfmt.pro).
