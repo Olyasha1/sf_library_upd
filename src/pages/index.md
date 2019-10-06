@@ -27,9 +27,10 @@ sections:
           - label: View Posts
             url: blog/index.html
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        title: Blog
+          [/blog](/blog)Vestibulum a nunc ut eros condimentum posuere. Nullam
+          dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac
+          commodo eu.
+        title: Articles
       - actions:
           - label: Learn More
             url: /style-guide.html
