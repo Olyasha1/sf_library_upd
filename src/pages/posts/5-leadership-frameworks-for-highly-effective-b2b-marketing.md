@@ -15,7 +15,7 @@ subtitle: >-
 date: 2019-08-31T00:00:00.000Z
 template: post
 ---
-# 1. _**INSIGHTS**_ NAVIGATOR
+# **1. INSIGHTS NAVIGATOR**
 
 > **1.1. SNAPSHOT**
 >
@@ -23,7 +23,7 @@ template: post
 >
 > **1.3. CUSTOM DASH**
 
-# 2. GRAND _**CONTENT**_ STUDIO
+# **2. GRAND CONTENT STUDIO**
 
 > **2.1. EXPERIENCE BOOK**
 >
@@ -35,7 +35,7 @@ template: post
 >
 > **2.5. EDUCATION ALTS**
 
-# 3. GROWTH DRIVEN **DESIGN** **_WEB ASSETS_**
+# **3. GROWTH DRIVEN DESIGN WEB ASSETS**
 
 > **3.1. TARGETED WEB ASSETS**
 >
@@ -43,7 +43,7 @@ template: post
 >
 > **3.3. MARKETING & SALES PLAYBOOKS**
 
-# 4. CREATIVE _AUTOMATIONS_
+# **4. CREATIVE AUTOMATIONS**
 
 > **4.1. KNOWLEDGE BOTS**
 >
@@ -55,10 +55,10 @@ template: post
 >
 > **4.5. TOTAL PERSONIFICATION**
 
-# 4. INVENTIVE _X-MEDIA_
+# **5. INVENTIVE MEDIA**
 
-> **4.1. VR EXPERIENCE**
+> **5.1. VR EXPERIENCE**
 >
-> **4.2. AR EXPERIENCE**
+> **5.2. AR EXPERIENCE**
 >
-> **4.3. AUDIO & VOICE MARKETING**
+> **5.3. AUDIO & VOICE MARKETING**
