@@ -1,5 +1,5 @@
 ---
-title: LUKOIL
+title: Lukoil
 subtitle: Shopper Connection & Big Data Analytics
 template: page
 ---
