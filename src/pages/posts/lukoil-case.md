@@ -5,6 +5,8 @@ date: 2019-07-04T12:31:05.900Z
 thumb_img_path: /images/screen-shot-2019-10-04-at-15.38.29.png
 template: post
 ---
+![](/images/screen-shot-2019-10-04-at-15.38.29.png)
+
 The project brief from Lukoil Lubricants was to develop a shopper marketing solution for their products selling through branded gasoline station stores.
 
 We had to work with the list of technically and communicationally specific SKUs of automotive liquids and oils.
