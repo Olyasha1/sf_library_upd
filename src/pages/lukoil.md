@@ -13,4 +13,4 @@ Our team analyzed sales big data across the channels and came up with product ma
 
 In the end we’ve made a pilot project in real life, which lasted for two months, and measured results after that we got confirmation of double digit % sales improvement.
 
-<iframe src="https://watch.cloudflarestream.com/7b027febd991d628f868c0d10567abfc" width="640" height="338" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://watch.cloudflarestream.com/7b027febd991d628f868c0d10567abfc" width="600" height="338" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
