@@ -3,6 +3,7 @@ title: Lukoil case
 subtitle: 'Shopper connection & big data analytics [EN]'
 date: 2019-07-04T12:31:05.900Z
 thumb_img_path: /images/screen-shot-2019-10-04-at-15.38.29.png
+content_img_path: /images/screen-shot-2019-10-04-at-15.38.29.png
 template: post
 ---
 ![](/images/screen-shot-2019-10-04-at-15.38.29.png)
