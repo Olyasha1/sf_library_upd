@@ -1,5 +1,6 @@
 ---
-title: Miller motion design
+title: Miller
+subtitle: ' Motion Design'
 template: page
 ---
 ![]()
