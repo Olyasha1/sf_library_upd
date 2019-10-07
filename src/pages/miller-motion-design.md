@@ -5,11 +5,13 @@ template: page
 ---
 ![]()
 
-<iframe src="https://watch.cloudflarestream.com/72cc4a927a435cbdd3651292e8947813" width="1024" height="512" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 
 
 Have a look! That’s how S&F team visualized product taste and feel for the upcoming Miller non-alcohol beer promotions. This visual message will be used to build a cross channel customer experience, including outdoor, media and digital formats.
+
+<iframe src="https://watch.cloudflarestream.com/72cc4a927a435cbdd3651292e8947813" width="1024" height="512" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 
 ## A bit more of details:
 
