@@ -1,6 +1,6 @@
 ---
-title: Lukoil
-subtitle: Shopper Connection
+title: LUKOIL
+subtitle: Shopper Connection & Big Data Analytics
 template: page
 ---
 ![](/images/screen-shot-2019-10-04-at-15.38.29.png)
