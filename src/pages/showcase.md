@@ -3,8 +3,8 @@ title: Showcase
 subtitle: This is an optional page subtitle
 img_path: /images/v2_570px.gif
 items:
-  - preview_img: /images/cism-sochi-2017.jpg
-    title: CISM 2017
+  - preview_img: /images/img_6926.png
+    title: CISM Sochi 2017
     subtitle: Inbound international GR marketing for Sochi 2017 Org Committee
     url: /cism-2017
   - preview_img: /images/14468388_329336844087916_8181872191181407823_o.jpg
