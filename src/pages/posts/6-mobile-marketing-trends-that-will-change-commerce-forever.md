@@ -1,13 +1,7 @@
 ---
 title: 6 mobile marketing trends that will change Commerce forever
-subtitle: >-
-  According to statistics, in 2019, a large proportion of purchases on the
-  Internet are made through mobile devices. Let's talk about the latest trends
-  in mobile marketing, which allow you to interest and keep the target audience,
-  as well as to simplify the processes that are focused on your goal: whether
-  it's buying a product, subscribing to your news channel or expanding the
-  target audience!
-date: 2019-10-08T20:02:05.100Z
+subtitle: ''
+date: 2019-06-29T20:02:05.100Z
 thumb_img_path: >-
   /images/sf_inbound_6-mobile-marketing-trends-that-will-change-commerce-forever-md.png
 template: post
