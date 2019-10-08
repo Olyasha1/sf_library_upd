@@ -8,6 +8,8 @@ subtitle: >-
   it's buying a product, subscribing to your news channel or expanding the
   target audience!
 date: 2019-10-08T20:02:05.100Z
+thumb_img_path: >-
+  /images/sf_inbound_6-mobile-marketing-trends-that-will-change-commerce-forever-md.png
 template: post
 ---
 ![](/images/sf_inbound_6-mobile-marketing-trends-that-will-change-commerce-forever-md.png)
