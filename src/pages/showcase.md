@@ -27,7 +27,14 @@ items:
     title: Miller
     subtitle: Motion Design
     url: /miller-motion-design
-  - {}
+  - preview_img: /images/s7-technologies.jpg
+    title: S7 Technics
+    subtitle: Design Materials for Russian B2B Sector
+    url: /s7-technics
+  - preview_img: /images/23119916_524460027908929_9087089980634559143_o.jpg
+    title: Vip Milk
+    subtitle: New Logo Concept
+    url: /vip-milk
 menus:
   layouts:
     title: ''
