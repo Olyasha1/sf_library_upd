@@ -3,10 +3,10 @@ title: saas
 subtitle: This is an optional page subtitle
 img_path: images/5.jpg
 items:
-  - preview_img: ''
-    title: HubSpot
-    subtitle: '#Marketing #Sales #Analytics #Productivity'
-    url: 'https://exto-test-1.netlify.com/'
+  - preview_img: /images/cism-sochi-2017.jpg
+    title: CISM 2017
+    subtitle: Inbound international GR marketing for Sochi 2017 Org Committee
+    url: /cism-2017
   - preview_img: images/7.jpg
     title: Fresh
     subtitle: A personal theme for Unibit
@@ -26,7 +26,7 @@ menus:
     title: ''
     weight: ''
   main:
-    title: SaaS config
+    title: Showcase
     weight: 1
 template: showcase
 ---
