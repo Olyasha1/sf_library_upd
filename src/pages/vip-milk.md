@@ -1,5 +1,5 @@
 ---
-title: Vip-Milk
+title: Vip Milk
 subtitle: New Logo
 img_path: ''
 template: page
