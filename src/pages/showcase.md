@@ -1,7 +1,7 @@
 ---
-title: saas
+title: Showcase
 subtitle: This is an optional page subtitle
-img_path: images/5.jpg
+img_path: /images/v2_570px.gif
 items:
   - preview_img: /images/cism-sochi-2017.jpg
     title: CISM 2017
