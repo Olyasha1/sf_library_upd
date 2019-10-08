@@ -7,20 +7,27 @@ items:
     title: CISM 2017
     subtitle: Inbound international GR marketing for Sochi 2017 Org Committee
     url: /cism-2017
-  - preview_img: images/7.jpg
-    title: Fresh
-    subtitle: A personal theme for Unibit
-    url: 'https://themes.stackbit.com/demos/fresh/'
-  - preview_img: images/8.jpg
-    title: Fjord
-    subtitle: A minimal blogging theme for Unibit
-    url: 'https://themes.stackbit.com/demos/fjord/'
-  - preview_img: images/9.jpg
-    title: Ampersand
-    subtitle: Medium inspired blogging theme
-    url: 'https://themes.stackbit.com/demos/ampersand/'
-  - title: SaaS pricing summary
-    subtitle: This page is summarizing all current and most up to date pricing data
+  - preview_img: /images/14468388_329336844087916_8181872191181407823_o.jpg
+    title: International College of Progress
+    subtitle: Creating a New Brand In Education
+    url: /international-college-of-progress
+  - preview_img: /images/снимок-экрана-2019-10-08-в-16.24.40.png
+    title: Inventive Media by S&F
+    subtitle: AR Interaction Wrapped Into Powerful Air Humidifier
+    url: /inventive-media-by-s-f
+  - preview_img: /images/screen-shot-2019-10-04-at-15.38.29.png
+    title: Lukoil
+    subtitle: Shopper Connection & Big Data Analytics
+    url: /lukoil
+  - preview_img: /images/miller-b2b.jpg
+    title: Miller (b2b)
+    subtitle: B2B campaign for retailers (inbound marketing with infographics & PWA
+    url: /miller-b2b
+  - preview_img: /images/miller-design-concept.jpg
+    title: Miller
+    subtitle: Motion Design
+    url: /miller-motion-design
+  - {}
 menus:
   layouts:
     title: ''
