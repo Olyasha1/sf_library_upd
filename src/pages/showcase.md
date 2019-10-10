@@ -41,6 +41,10 @@ items:
       Marketing toolkit and digital platform for a new brand Lemon Radler by
       Miller
     url: /lemon-radler
+  - preview_img: /images/rastishka-ar-danone.jpg
+    title: Rastishka (Danone)
+    subtitle: AR project
+    url: /rastishka-danone
 menus:
   layouts:
     title: ''
