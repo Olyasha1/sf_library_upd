@@ -2,7 +2,7 @@
 title: >-
   How to remain a marketing leader in the next 3 three years? The effectiveness
   of marketing automation in real case studies and numbers
-date: 2019-10-09T12:07:16.400Z
+date: 2019-07-12T12:07:16.400Z
 thumb_img_path: >-
   /images/sf_inbound_how-to-stay-a-marketing-leader-in-the-nearest-3-years-md.png
 template: post
