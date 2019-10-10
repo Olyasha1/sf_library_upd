@@ -35,6 +35,12 @@ items:
     title: Vip Milk
     subtitle: New Logo Concept
     url: /vip-milk
+  - preview_img: /images/lemon-radler-in-mockup.png
+    title: Lemon Radler
+    subtitle: >-
+      Marketing toolkit and digital platform for a new brand Lemon Radler by
+      Miller
+    url: /lemon-radler
 menus:
   layouts:
     title: ''
