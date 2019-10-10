@@ -38,4 +38,6 @@ Visit your website. Filling in the web form. Changing the status of a potential 
 
 If your organization's e-mail marketing has any of the above features, it's time to invest in a new solution. Take your e-mail marketing to the next level using various automation tools.
 
-Translation and adaptation of Lizzy Funk article https://theblog.adobe.com/five-signs-your-email-marketing-needs-to-evolve/
+
+
+Translation and adaptation of Lizzy Funk [article](https://theblog.adobe.com/five-signs-your-email-marketing-needs-to-evolve/).
