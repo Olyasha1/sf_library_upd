@@ -38,4 +38,4 @@ With the development of the marketing automation industry, companies from all se
 
 Kevin Lindsay, product marketing Director at Adobe, wrote in his 2017 blog, " Why automation is Your strategic advantage in personalization wars": "Using artificial intelligence and machine learning to create the right and accurate consumer experience and automate scaling, brands can control simultaneously such complex buying paths that far exceed the capabilities of human marketers."
 
-Translation and adaptation of Lizzie funk's article: https://theblog.adobe.com/three-trends-that-made-marketing-automation-a-must-have/
+Translation and adaptation of Lizzie funk's [article](https://theblog.adobe.com/three-trends-that-made-marketing-automation-a-must-have/).
