@@ -15,10 +15,10 @@ items:
     title: Miller
     subtitle: Motion Design
     url: /miller-motion-design
-  - preview_img: /images/screen-shot-2019-10-04-at-15.38.29.png
-    title: Lukoil
-    subtitle: Shopper Connection & Big Data Analytics
-    url: /lukoil
+  - preview_img: /images/rastishka-ar-danone.jpg
+    title: Rastishka (Danone)
+    subtitle: AR project
+    url: /rastishka-danone
   - preview_img: /images/14468388_329336844087916_8181872191181407823_o.jpg
     title: International College of Progress
     subtitle: Creating a New Brand In Education
@@ -31,6 +31,10 @@ items:
     title: CISM Sochi 2017
     subtitle: Inbound international GR marketing for Sochi 2017 Org Committee
     url: /cism-2017
+  - preview_img: /images/screen-shot-2019-10-04-at-15.38.29.png
+    title: Lukoil
+    subtitle: Shopper Connection & Big Data Analytics
+    url: /lukoil
   - preview_img: /images/23119916_524460027908929_9087089980634559143_o.jpg
     title: Vip Milk
     subtitle: New Logo Concept
@@ -41,10 +45,6 @@ items:
       Marketing toolkit and digital platform for a new brand Lemon Radler by
       Miller
     url: /lemon-radler
-  - preview_img: /images/rastishka-ar-danone.jpg
-    title: Rastishka (Danone)
-    subtitle: AR project
-    url: /rastishka-danone
 menus:
   layouts:
     title: ''
