@@ -27,12 +27,8 @@ Skillful use of the time factor increases the chance of attracting the attention
 
 Time plays an increasingly important role in personalized marketing as a means of continuously improving the ROI (return on investment) of marketing campaigns. Over the past few years, many marketers have started to actively use advanced data Analytics to identify the "right" buyers and increase profitability. But today, these still valuable practices are approaching their ceiling.
 
-As noted in a study by Bain & Company, Google Google, the rapid growth of digital channels and opportunities for buyers leads to an increase in the importance of the underrated variable until now – the time of the message. To enhance customer engagement, marketers need to know not only what current or potential customers to target, but also at what specific point. (see Table 1). Through communication, the most favorable time identified on the basis of knowledge about the behaviour of the audience and their signals, companies can more successfully develop the business through fewer or less effective advertising or expand the target audience through new segments of the audience.
-
-![](/images/снимок-экрана-2019-02-25-в-22.57.23.png)
-
-_Table.1 the Curve of the evolution of the perception of the marketer_
-
+As noted in a study by Bain & Company, Google Google, the rapid growth of digital channels and opportunities for buyers leads to an increase in the importance of the underrated variable until now – the time of the message. To enhance customer engagement, marketers need to know not only what current or potential customers to target, but also at what specific point. (see Table 1). Through communication, the most favorable time identified on the basis of knowledge about the behaviour of the audience and their signals, companies can more successfully develop the business through fewer or less effective advertising or expand the target audience through new segments of the audience. 
+ 
 Bain & company's research was conducted on 1700 marketers from large companies from all over the world, both in B2C and B2B segments. A key objective of the study was to find an answer to the question of how marketers have benefited from the collection of data on their consumers and how much they have benefited from investment in technology. While at the regional level there are still differences in technology adoption, integration preferences, and priorities, the study revealed clear characteristics of marketers – leaders at the global level. Leaders, defined as the Top 20% in composite sales growth and market share, not only understand what customers they need to "catch" and what to tell them, but also understand the importance of communication with the consumer at a certain point in time and understand the role of technology in this communication process.
 
 #### Case study: Keurig coffee company
@@ -59,10 +55,8 @@ How do the most advanced marketers see a further increase in ROI (return on inve
 
 **The third** distinguishing feature of how marketing leaders approach the time factor is the accelerated decision-making process. They achieve this by forming an internal in-house team responsible for attracting and retaining customers/buyers. This team is responsible for budget, technology, data collection, and Analytics.
 
-![](/images/снимок-экрана-2019-02-25-в-22.56.55-2.png)
-
-_Table.2 Leaders already have complete information about customers and regularly update it to use when making decisions_
-
 > Note: the leaders are identified as the Top 20% of respondents based on a composite assessment of sales growth and market share, lagging is the last 20% in the ranking.
+
+
 
 Report source: Bain & Company, all about time: [why your marketing can be not enough?](https://www.bain.com/insights/its-about-time-why-your-marketing-may-be-falling-short/)
