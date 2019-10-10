@@ -31,38 +31,38 @@ As noted in a study by Bain & Company, Google Google, the rapid growth of digita
 
 ![](/images/снимок-экрана-2019-02-25-в-22.57.23.png)
 
-
+_Table.1 the Curve of the evolution of the perception of the marketer_
 
 Bain & company's research was conducted on 1700 marketers from large companies from all over the world, both in B2C and B2B segments. A key objective of the study was to find an answer to the question of how marketers have benefited from the collection of data on their consumers and how much they have benefited from investment in technology. While at the regional level there are still differences in technology adoption, integration preferences, and priorities, the study revealed clear characteristics of marketers – leaders at the global level. Leaders, defined as the Top 20% in composite sales growth and market share, not only understand what customers they need to "catch" and what to tell them, but also understand the importance of communication with the consumer at a certain point in time and understand the role of technology in this communication process.
 
-Case study: Keurig coffee company
+#### Case study: Keurig coffee company
 
 Marketers of the American coffee Corporation Keurig appreciated the importance of the time factor for the business of coffee capsules. Some people buy a month's supply of coffee capsules at once, while others buy fewer capsules once every 1-2 weeks. Interaction with the customer at the "right" moment to ensure always the optimal supply of capsules has a huge impact on revenue and customer loyalty.
 
 Previously, Keurig marketers used to send e-mail newsletters with special price offers and "buy now"promo every day. They assumed that consumers who want to buy coffee capsules would open these letters and be motivated to buy. But then the company decided to analyze the two-year history of sales, including the rate of purchase and user path in digital channels. Based on this analysis, four specific segments of buyers were identified, where the company could further test more accurate in time and different in content communication messages. For example, now the owners of new coffee machines get more information about the variety of flavors of coffee capsules than about price promotions. Since the messages in the new mailing list have become more focused on the individual buyer, Keurig collects data and increases sales, making specific branding, training programs and promotions for each individual segment.
 
-Signals, order, and speed
+## Signals, order, and speed
 
 Today, the right time of communication is manifested through signals, order, speed, and communication. Existing technologies allow marketers to test each of these factors almost in real time.
 
-Case study: over-the-counter medicines
+#### Case study: over-the-counter medicines
 
 As an example, we present a case from the market of OTC medicines. The leading company of the segment analyzed the previous search query of buyers and their buying behavior. Based on this analysis, it was found that when buyers took the drug within the first two days of the onset of the disease, they were more likely to feel pain relief and become more loyal to the brand. Google web WebMD to identify and target people whose search queries match this narrow time interval. In the end, the brand significantly increased the conversion from search to sale of its drugs, while increasing loyalty to its brand.
 
-What do marketing leaders do differently?
+#### What do marketing leaders do differently?
 
 How do the most advanced marketers see a further increase in ROI (return on investment)? According to the leaders from North America, who got into the Study, the only area where you need to invest in the next 3 years is the study and selection of buyers. (According to the study, this area exceeds the next in the responses of managers by 1.3 times). While all marketers unanimously share this goal, leaders have moved further in three directions, each of which affects their model of using the time factor.
 
-First, they fully own the "digital destiny" of their brand, thanks to the control over information about consumers and the integration of marketing and advertising technologies. In particular, North American marketing leaders are 1.6 times more likely than lagging companies to prioritize the integration of their platforms, and they have a better understanding of how to implement the technology.
+**First,**  they fully own the "digital destiny" of their brand, thanks to the control over information about consumers and the integration of marketing and advertising technologies. In particular, North American marketing leaders are 1.6 times more likely than lagging companies to prioritize the integration of their platforms, and they have a better understanding of how to implement the technology.
 
-Secondly, marketing leaders have built a new corporate culture of result testing (testing to achieve results), using temporary insights obtained through the experiment to justify their marketing decisions. They encourage the use of metrics and share knowledge with marketing and sales staff.
+**Secondly,** marketing leaders have built a new corporate culture of result testing (testing to achieve results), using temporary insights obtained through the experiment to justify their marketing decisions. They encourage the use of metrics and share knowledge with marketing and sales staff.
 
-The third distinguishing feature of how marketing leaders approach the time factor is the accelerated decision-making process. They achieve this by forming an internal in-house team responsible for attracting and retaining customers/buyers. This team is responsible for budget, technology, data collection, and Analytics.
+**The third** distinguishing feature of how marketing leaders approach the time factor is the accelerated decision-making process. They achieve this by forming an internal in-house team responsible for attracting and retaining customers/buyers. This team is responsible for budget, technology, data collection, and Analytics.
 
-Table.2 Leaders already have complete information about customers and regularly update it to use when making decisions
+![](/images/снимок-экрана-2019-02-25-в-22.56.55-2.png)
 
-Note: the leaders are identified as the Top 20% of respondents based on a composite assessment of sales growth and market share, lagging is the last 20% in the ranking.
+_Table.2 Leaders already have complete information about customers and regularly update it to use when making decisions_
 
-Source: Bain marketers survey, November 2017 (p=516 for North America)
+> Note: the leaders are identified as the Top 20% of respondents based on a composite assessment of sales growth and market share, lagging is the last 20% in the ranking.
 
-Report source: Bain & Company, all about time: why your marketing can benot enough? April 2018, https://www.bain.com/insights/its-about-time-why-your-marketing-may-be-falling-short/
+Report source: Bain & Company, all about time: [why your marketing can be not enough?](https://www.bain.com/insights/its-about-time-why-your-marketing-may-be-falling-short/) April 2018
