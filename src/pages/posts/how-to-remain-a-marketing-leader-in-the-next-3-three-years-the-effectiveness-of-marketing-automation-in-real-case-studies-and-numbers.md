@@ -65,4 +65,4 @@ _Table.2 Leaders already have complete information about customers and regularly
 
 > Note: the leaders are identified as the Top 20% of respondents based on a composite assessment of sales growth and market share, lagging is the last 20% in the ranking.
 
-Report source: Bain & Company, all about time: [why your marketing can be not enough?](https://www.bain.com/insights/its-about-time-why-your-marketing-may-be-falling-short/) April 2018
+Report source: Bain & Company, all about time: [why your marketing can be not enough?](https://www.bain.com/insights/its-about-time-why-your-marketing-may-be-falling-short/)
