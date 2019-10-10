@@ -1,6 +1,6 @@
 ---
 title: Why automation of processes in marketing is inevitable
-date: 2019-10-10T12:02:11.000Z
+date: 2019-05-23T12:02:11.000Z
 thumb_img_path: /images/sf_inbound_why-marketing-automation-is-inevitable-md.png
 template: post
 ---
