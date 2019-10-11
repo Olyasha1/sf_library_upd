@@ -1,6 +1,7 @@
 ---
 title: Top 10 languages spoken by the Internet today
 date: 2019-09-18T11:11:02.100Z
+thumb_img_path: /images/sf_inbound_-top-10-languages-spoken-by-the-internet-today-md.jpg
 template: post
 ---
 ![](/images/sf_inbound_-top-10-languages-spoken-by-the-internet-today-md.jpg)
